@@ -8,4 +8,10 @@
     <ProjectReference Include="..\vassilyev.eSport.Core\vassilyev.eSport.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\css\" />
+    <Folder Include="wwwroot\img\" />
+    <Folder Include="wwwroot\js\" />
+  </ItemGroup>
+
 </Project>
